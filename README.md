@@ -1,10 +1,15 @@
 ##Presentación
 =
 -Nombre: Lucas Joshua Mardardjian
+
 -Edad: 22 años
+
 -Fecha de Nacimiento: 21/01/2003
+
 -Barrio: Villa Pueyrredón, CABA
+
 -Legajo: 209.394-7
+
 
 ###About me
 -
