@@ -1,4 +1,4 @@
-##Presentación
+# Presentación
 =
 - Nombre: Lucas Joshua Mardardjian
 
@@ -11,7 +11,7 @@
 - Legajo: 209.394-7
 
 
-###About me
+## About me
 -
 Soy una persona enérgica, simpática y amable. Me encantan la lógica, el deporte, la iglesia y las
 personas. Elegí esta carrera después de configurar un excel para calcular estructuras en la secundaria,
