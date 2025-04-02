@@ -18,4 +18,4 @@ personas. Elegí esta carrera después de configurar un excel para calcular estr
 sin saber casi nada de computación o software, pero acá estamos. Y si el domingo ganan los de rojo,
 soy más que feliz.
 
-![img1]: i:/g/personal/lmardardjian_frba_utn_edu_ar/EWxacKmhjutJluBibjEpte8Ba1oud5gtWiaDQWAm8xURMQ?e=yYONHn 
+![img1]: (i:/g/personal/lmardardjian_frba_utn_edu_ar/EWxacKmhjutJluBibjEpte8Ba1oud5gtWiaDQWAm8xURMQ?e=yYONHn) 
