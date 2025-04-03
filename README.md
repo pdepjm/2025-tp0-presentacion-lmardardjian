@@ -19,4 +19,3 @@ sin saber casi nada de computación o software, pero acá estamos. Y si el domin
 soy más que feliz.
 
 ![Presentación.jpg](https://www.instagram.com/lucasmarda/p/ChiK-wfpUJqrdVElwE94qiU9k_pVqpMg_3izbQ0/)
-
