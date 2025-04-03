@@ -18,4 +18,5 @@ personas. Elegí esta carrera después de configurar un excel para calcular estr
 sin saber casi nada de computación o software, pero acá estamos. Y si el domingo ganan los de rojo,
 soy más que feliz.
 
-![Presentación.jpg](https://assets.goal.com/images/v3/bltd58c4d60ecd9275e/GOAL_-_Blank_WEB_-_Facebook_-_2023-06-13T135350.847.png)
+![Presentación](https://github.com/user-attachments/assets/4efb19ce-0ab1-42ff-a064-5452a94ac887)
+
