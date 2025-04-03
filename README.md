@@ -18,5 +18,5 @@ personas. Elegí esta carrera después de configurar un excel para calcular estr
 sin saber casi nada de computación o software, pero acá estamos. Y si el domingo ganan los de rojo,
 soy más que feliz.
 
-![Presentación.jpg](https://fotos.perfil.com/2025/03/20/trim/950/534/la-fuerte-declaracion-de-mar-lucas-que-dijo-1988961.jpg?webp)
+![Presentación.jpg](https://www.instagram.com/lucasmarda/p/ChiK-wfpUJqrdVElwE94qiU9k_pVqpMg_3izbQ0/)
 
